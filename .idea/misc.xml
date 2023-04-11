@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/08_Strings/SplitText/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Strings/PhoneCleaner/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Strings/FullNameFormatter/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Strings/FullNameFormatterRegExp/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Strings/TotalEarningsCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Strings/TotalEarningsCalculatorRegExp/pom.xml" />
+        <option value="$PROJECT_DIR$/DataCollector/pom.xml" />
+        <option value="$PROJECT_DIR$/07_NumbersAndDates/Date/pom.xml" />
+        <option value="$PROJECT_DIR$/07_NumbersAndDates/Periods/pom.xml" />
+        <option value="$PROJECT_DIR$/07_NumbersAndDates/GeometryCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/07_NumbersAndDates/TrucksContainersAndBoxes/pom.xml" />
+        <option value="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.1/pom.xml" />
+        <option value="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Airport/pom.xml" />
+        <option value="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Employees/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/Hospital/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/ReverseArray/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/TwoDimensionalArray/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.2/TodoList/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.3/EmailList/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.4/PhoneBook/pom.xml" />
+        <option value="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.5/CoolNumber/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/MaskingInformation/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/SplitText/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/pom.xml" />
+        <option value="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/pom.xml" />
+        <option value="$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.1/pom.xml" />
+        <option value="$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.3/pom.xml" />
+        <option value="$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.1/ConsoleCustomerList/pom.xml" />
+        <option value="$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.2/SPBMetro/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

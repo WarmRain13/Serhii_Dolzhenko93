@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PhoneBook" />
+        <module name="PhoneCleaner" />
+        <module name="TotalEarningsCalculatorReqExp" />
+        <module name="FullNameFormatterRegExp (1)" />
+        <module name="ConsoleCustomerList" />
+        <module name="MaskingInformationReqExp" />
+        <module name="SplitText" />
+        <module name="MaskingInformation" />
+        <module name="TotalEarningsCalculator (1)" />
+        <module name="TrucksContainersAndBoxes" />
+        <module name="FullNameFormatter" />
+        <module name="LambdaExpressions" />
+        <module name="01_sumdigits" />
+        <module name="GeometryCalculator (1)" />
+        <module name="Birthdays" />
+        <module name="BirthdayCalendar" />
+        <module name="GeometryCalculator" />
+        <module name="Hospital" />
+        <module name="TotalEarningsCalculatorRegExp" />
+        <module name="PhoneCleaner (1)" />
+        <module name="LambdaExpressions-Airport" />
+        <module name="ReverseArray" />
+        <module name="SplitText (1)" />
+        <module name="TrucksContainersAndBoxes (1)" />
+        <module name="FullNameFormatter (1)" />
+        <module name="EmailList" />
+        <module name="spb-metro" />
+        <module name="LambdaExpressions-Employee" />
+        <module name="TotalEarningsCalculator" />
+        <module name="Periods" />
+        <module name="FullNameFormatterRegExp" />
+        <module name="Inheritance1" />
+        <module name="CoolNumber" />
+        <module name="WebParser" />
+        <module name="TwoDimensionalArray" />
+        <module name="Inheritance3" />
+        <module name="TodoList" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_sumdigits" target="11" />
+      <module name="BirthdayCalendar" target="11" />
+      <module name="Birthdays" target="11" />
+      <module name="ConsoleCustomerList" target="11" />
+      <module name="CoolNumber" target="11" />
+      <module name="EmailList" target="11" />
+      <module name="FullNameFormatter" target="11" />
+      <module name="FullNameFormatter (1)" target="11" />
+      <module name="FullNameFormatterRegExp" target="11" />
+      <module name="FullNameFormatterRegExp (1)" target="11" />
+      <module name="GeometryCalculator" target="11" />
+      <module name="GeometryCalculator (1)" target="11" />
+      <module name="Hospital" target="11" />
+      <module name="Inheritance1" target="11" />
+      <module name="Inheritance3" target="11" />
+      <module name="LambdaExpressions" target="11" />
+      <module name="LambdaExpressions-Airport" target="11" />
+      <module name="LambdaExpressions-Employee" target="11" />
+      <module name="MaskingInformation" target="11" />
+      <module name="MaskingInformationReqExp" target="11" />
+      <module name="Periods" target="11" />
+      <module name="PhoneBook" target="11" />
+      <module name="PhoneCleaner" target="11" />
+      <module name="PhoneCleaner (1)" target="11" />
+      <module name="ReverseArray" target="11" />
+      <module name="spb-metro" target="11" />
+      <module name="SplitText" target="11" />
+      <module name="SplitText (1)" target="11" />
+      <module name="TodoList" target="11" />
+      <module name="TotalEarningsCalculator" target="11" />
+      <module name="TotalEarningsCalculator (1)" target="11" />
+      <module name="TotalEarningsCalculatorRegExp" target="11" />
+      <module name="TotalEarningsCalculatorReqExp" target="11" />
+      <module name="TrucksContainersAndBoxes" target="11" />
+      <module name="TrucksContainersAndBoxes (1)" target="11" />
+      <module name="TwoDimensionalArray" target="11" />
+      <module name="WebParser" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/01_sumdigits.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/01_sumdigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/BirthdayCalendar.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/BirthdayCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_NumbersAndDates/Date/Birthdays.iml" filepath="$PROJECT_DIR$/07_NumbersAndDates/Date/Birthdays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.1/ConsoleCustomerList/ConsoleCustomerList.iml" filepath="$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.1/ConsoleCustomerList/ConsoleCustomerList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.5/CoolNumber/CoolNumber.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.5/CoolNumber/CoolNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.3/EmailList/EmailList.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.3/EmailList/EmailList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/FullNameFormatter/FullNameFormatter.iml" filepath="$PROJECT_DIR$/08_Strings/FullNameFormatter/FullNameFormatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/FullNameFormatter (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/FullNameFormatter (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/FullNameFormatterRegExp/FullNameFormatterRegExp.iml" filepath="$PROJECT_DIR$/08_Strings/FullNameFormatterRegExp/FullNameFormatterRegExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/FullNameFormatterRegExp (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/FullNameFormatterRegExp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_NumbersAndDates/GeometryCalculator/GeometryCalculator.iml" filepath="$PROJECT_DIR$/07_NumbersAndDates/GeometryCalculator/GeometryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/GeometryCalculator (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/GeometryCalculator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/Hospital/Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.1/Inheritance1.iml" filepath="$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.1/Inheritance1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.3/Inheritance3.iml" filepath="$PROJECT_DIR$/10_InheritanceAndPolymorphism/homework_10.3/Inheritance3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.1/LambdaExpressions.iml" filepath="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.1/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Airport/LambdaExpressions-Airport.iml" filepath="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Airport/LambdaExpressions-Airport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Employees/LambdaExpressions-Employee.iml" filepath="$PROJECT_DIR$/11_AdvancedOOPFeatures/homework_11.2/Employees/LambdaExpressions-Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/MaskingInformation/MaskingInformation.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/MaskingInformation/MaskingInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/MaskingInformationReqExp.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/MaskingInformationReqExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_NumbersAndDates/Periods/Periods.iml" filepath="$PROJECT_DIR$/07_NumbersAndDates/Periods/Periods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.4/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.4/PhoneBook/PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/PhoneCleaner/PhoneCleaner.iml" filepath="$PROJECT_DIR$/08_Strings/PhoneCleaner/PhoneCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/PhoneCleaner (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/PhoneCleaner (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Serhii_Dolzhenko93.iml" filepath="$PROJECT_DIR$/.idea/Serhii_Dolzhenko93.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/SplitText/SplitText.iml" filepath="$PROJECT_DIR$/08_Strings/SplitText/SplitText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/SplitText/SplitText (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/SplitText/SplitText (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.2/TodoList/TodoList.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.2/TodoList/TodoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/TotalEarningsCalculator/TotalEarningsCalculator.iml" filepath="$PROJECT_DIR$/08_Strings/TotalEarningsCalculator/TotalEarningsCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/TotalEarningsCalculator (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/TotalEarningsCalculator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Strings/TotalEarningsCalculatorRegExp/TotalEarningsCalculatorRegExp.iml" filepath="$PROJECT_DIR$/08_Strings/TotalEarningsCalculatorRegExp/TotalEarningsCalculatorRegExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/TotalEarningsCalculatorReqExp.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/TotalEarningsCalculatorReqExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_NumbersAndDates/TrucksContainersAndBoxes/TrucksContainersAndBoxes.iml" filepath="$PROJECT_DIR$/07_NumbersAndDates/TrucksContainersAndBoxes/TrucksContainersAndBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/TrucksContainersAndBoxes (1).iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/TrucksContainersAndBoxes (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/TwoDimensionalArray/TwoDimensionalArray.iml" filepath="$PROJECT_DIR$/05_ArraysAndCollections/homework_5.1/TwoDimensionalArray/TwoDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataCollector/WebParser.iml" filepath="$PROJECT_DIR$/DataCollector/WebParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.2/SPBMetro/spb-metro.iml" filepath="$PROJECT_DIR$/12_ExceptionsDebuggingAndTesting/homework_12.2/SPBMetro/spb-metro.iml" />
+    </modules>
+  </component>
+</project>
